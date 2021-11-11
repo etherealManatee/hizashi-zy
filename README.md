@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hizashi-zy
 - 👀 I’m interested in blockchain technology!
-- 🌱 I’m currently learning to code in solidity.
+- 🌱 I’m currently learning to code in rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
